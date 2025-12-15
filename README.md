@@ -6,7 +6,7 @@ This repository documents my coursework, assignments, and projects for the **IBM
 
 ## 📊 Course Progress Tracker
 
-**| Course | Key Skills & Technologies |**
+| Course | Key Skills & Technologies |
 | :--- | :--- | :--- |
 | **1. What is Data Science?** -Data Science Definition, Daily Routine, History |
 | **2. Tools for Data Science** -Jupyter Notebooks, RStudio IDE, GitHub, Watson Studio |
